@@ -1,6 +1,6 @@
 # not-code-but-cool: miscellaneous projects
 
-[![License](https://badgen.net/static/license/CC?color=fff)](LICENSE.md)
+[![License](https://badgen.net/static/license/CC?color=fff&icon=creative-commons)](LICENSE.md)
 
 These aren't software, but they're neat lil side projects:
 
