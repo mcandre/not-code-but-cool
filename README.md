@@ -1,6 +1,6 @@
 # not-code-but-cool: miscellaneous projects
 
-[![License](https://badgen.net/static/license/CC?color=fff&icon=creative-commons)](LICENSE.md)
+[![License](https://badgen.net/static/license/CC?color=fff&icon=creative-commons)](LICENSE.md) [![AI](https://badgen.net/static/ai/Gemini|hint?color=886fbf&icon=google-gemini)](AI-DECLARATION.md)
 
 These aren't software, but they're neat lil side projects:
 
